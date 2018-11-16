@@ -1,2 +1,3 @@
 # stockit
-This package is toolkit for stock study
+
+This is a toolkit package for chinese stock study.
